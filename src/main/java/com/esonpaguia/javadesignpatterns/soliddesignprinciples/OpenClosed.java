@@ -3,11 +3,6 @@ package com.esonpaguia.javadesignpatterns.soliddesignprinciples;
 import java.util.List;
 import java.util.stream.Stream;
 
-/**
- * OCP - Open-closed Principle
- *
- * @author Eson Paguia
- */
 class OpenClosedPrincipleDemo {
 
     public static void main(String[] args) {

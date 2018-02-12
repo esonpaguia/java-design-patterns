@@ -6,12 +6,7 @@ import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * SRP - Single Responsibility Principle
- *
- * @author Eson Paguia
- */
-public class SingleResponsibilityPrincipleDemo {
+class SingleResponsibilityDemo {
 
     public static void main(String[] args) throws Exception {
         Journal j = new Journal();
